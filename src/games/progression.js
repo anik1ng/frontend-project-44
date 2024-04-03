@@ -21,7 +21,7 @@ const genQA = () => {
   const answer = progression[index].toString();
   progression[index] = '..';
 
-  return [progression, answer];
+  return [progression.join(' '), answer];
 };
 
 export const description = 'What number is missing in the progression?';
