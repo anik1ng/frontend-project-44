@@ -27,3 +27,6 @@ Definition of a prime number.
 
 #### brain-gcd:
 [![asciicast](https://asciinema.org/a/650440.svg)](https://asciinema.org/a/650440)
+
+#### brain-progression:
+[![asciicast](https://asciinema.org/a/LaFNVC0Ig8IXHfY4Vx7chFXE4.svg)](https://asciinema.org/a/LaFNVC0Ig8IXHfY4Vx7chFXE4)
