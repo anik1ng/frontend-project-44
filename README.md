@@ -30,3 +30,6 @@ Definition of a prime number.
 
 #### brain-progression:
 [![asciicast](https://asciinema.org/a/LaFNVC0Ig8IXHfY4Vx7chFXE4.svg)](https://asciinema.org/a/LaFNVC0Ig8IXHfY4Vx7chFXE4)
+
+#### brain-prime:
+[![asciicast](https://asciinema.org/a/650602.svg)](https://asciinema.org/a/650602)
