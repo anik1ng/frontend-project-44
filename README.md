@@ -13,8 +13,25 @@ Definition of an even number.
 Determination of the greatest common divisor.
 Definition of a prime number.
 
+## Requirements
+Node.js 12.x or higher
 
-### Demo:
+## Installation & running games
+
+### Installation:
+* Clone repo.
+* `make install`
+* `npm link`
+
+### Run games:
+* `brain-games`
+* `brain-even`
+* `brain-calc`
+* `brain-gcd`
+* `brain-progression`
+* `brain-prime`
+
+## Demo
 
 #### brain-games:
 [![asciicast](https://asciinema.org/a/0uFNjysCx0Mxmaq7g58sUuH1b.svg)](https://asciinema.org/a/0uFNjysCx0Mxmaq7g58sUuH1b)
